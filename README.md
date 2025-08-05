@@ -4,13 +4,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a creative full-stack developer who builds meaningful, user-focused digital experiences.
 
-- 🔭 Working on: AI-powered note app (Second Brain)  
-- 🛠️ Tech: React, Django, Zustand, Stripe/Paystack  
-- 🎯 Passion: Solving real-world problems with clean UI and smart backend logic
+- Working on: AI-powered note app (Second Brain)  
+- Tech: React, Django, Zustand, Stripe/Paystack  
+- Passion: Solving real-world problems with clean UI and smart backend logic
 
 ---
 
@@ -28,17 +28,13 @@ I’m a creative full-stack developer who builds meaningful, user-focused digita
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🧠 [Second Brain](https://github.com/samueleffiong/second-brain)
+### [Second Brain](https://github.com/samueleffiong/second-brain)
 AI-enhanced note-taking app with pinning, summaries, tagging, and trash system.  
-➡️ [Live Demo](https://second-brain.vercel.app)
+➡️ [Live Demo](https://second-brain-two-theta.vercel.app)
 
-### 💎 [Jewelry Store](https://github.com/samueleffiong/jewelry-store)
-E-commerce platform with cart, wishlist, Stripe + Paystack integration.  
-➡️ [Live Demo](https://jewelstore.netlify.app)
-
----
+  
 
 ## 📈 GitHub Stats (Optional)
 
@@ -48,6 +44,4 @@ E-commerce platform with cart, wishlist, Stripe + Paystack integration.
 
 ## 🔗 Connect With Me
 
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+
