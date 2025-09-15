@@ -8,8 +8,6 @@
 
 I’m a creative full-stack developer who builds meaningful, user-focused digital experiences.
 
-- Working on: AI-powered note app (Second Brain)  
-- Tech: React, Django, Zustand, Stripe/Paystack  
 - Passion: Solving real-world problems with clean UI and smart backend logic
 
 ---
@@ -30,7 +28,7 @@ I’m a creative full-stack developer who builds meaningful, user-focused digita
 
 ## Featured Projects
 
-### [Second Brain](https://github.com/samueleffiong/second-brain)
+### [Second Brain](https://github.com/richsam22/second-brain)
 AI-enhanced note-taking app with pinning, summaries, tagging, and trash system.  
 ➡️ [Live Demo](https://second-brain-two-theta.vercel.app)
 
@@ -38,7 +36,7 @@ AI-enhanced note-taking app with pinning, summaries, tagging, and trash system.
 
 ## 📈 GitHub Stats (Optional)
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueleffiong&show_icons=true&theme=default)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=richsam22&show_icons=true&theme=default)
 
 ---
 
