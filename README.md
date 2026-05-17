@@ -2,7 +2,7 @@
 
 Full-stack developer with 3+ years building real products — e-commerce, SaaS, dashboards, and APIs. I’m backend-leaning (Django/Python) but comfortable owning a project end to end, from database design to React frontend to deployment.
 
-Based in Nigeria 🇳🇬 · GMT+1 · Remote-ready · Open to opportunities
+Remote-ready · Open to opportunities
 
 -----
 
